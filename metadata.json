@@ -1,0 +1,6 @@
+{
+  "name": "3D Pantry Planner",
+  "description": "An immersive 3D AI-powered cooking companion and recipe planner. Built with React, Tailwind, Framer Motion, React Three Fiber, and Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
